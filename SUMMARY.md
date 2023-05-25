@@ -9,4 +9,5 @@
 
 ### Learning
 - [Recommended websites](learning/Websites.md)
+- [Recommended videos](learning/Videos.md)
 - [Recommended papers](learning/Papers.md)
