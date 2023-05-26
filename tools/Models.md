@@ -19,6 +19,7 @@ Depending on your capacity, here are a few models to consider initially:
 
 #### 30B Models
 
+- [TheBloke/guanaco-33B-GGML](https://huggingface.co/TheBloke/guanaco-33B-GGML)
 - [TheBloke/WizardLM-30B-Uncensored-GGML](https://huggingface.co/TheBloke/WizardLM-30B-Uncensored-GGML)
 - [TheBloke/VicUnlocked-30B-LoRA-GGML](https://huggingface.co/TheBloke/VicUnlocked-30B-LoRA-GGML)
 - [TheBloke/OpenAssistant-SFT-7-Llama-30B-GGML](https://huggingface.co/TheBloke/OpenAssistant-SFT-7-Llama-30B-GGML)
@@ -26,6 +27,7 @@ Depending on your capacity, here are a few models to consider initially:
 
 #### 65B Models
 
+- [TheBloke/guanaco-65B-GGML](https://huggingface.co/TheBloke/guanaco-65B-GGML)
 - [TheBloke/gpt4-alpaca-lora_mlp-65B-GGML](https://huggingface.co/TheBloke/gpt4-alpaca-lora_mlp-65B-GGML)
 - [TheBloke/alpaca-lora-65B-GGML](https://huggingface.co/TheBloke/alpaca-lora-65B-GGML)
 
