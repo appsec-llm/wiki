@@ -13,3 +13,7 @@ A first(?) paper that has proposed a transformer architecture for neural network
 ## MAS.S68: Generative AI for Constructive Communication - Evaluation and New Research Methods
 
 [MIT course](https://ai4comm.media.mit.edu/), includes many interesting papers.
+
+## "AI Canon" by Derrick Harris, Matt Bornstein, and Guido Appenzeller
+
+A compilation of papers, articles and courses on generative AI: https://a16z.com/2023/05/25/ai-canon/
